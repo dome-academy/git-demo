@@ -14,3 +14,10 @@ Common git commands are:
 - git stash:
 - git checkout:
 - git branch:
+
+## Why people use git
+
+- To maintain their code
+- To keep track of changes
+- To backup their code
+- To collaborate with other people
