@@ -1,4 +1,4 @@
-# GIT DEMO for DOME WEBINAR
+# GIT DEMO for DOME WEBINAR CLASS
 
 This is a demo for Dome Academy's webinar.
 
