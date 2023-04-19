@@ -14,3 +14,6 @@ Common git commands are:
 - git stash:
 - git checkout:
 - git branch:
+- git pull:
+- git merge:
+- git bisect:
