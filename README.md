@@ -17,3 +17,10 @@ Common git commands are:
 - git pull:
 - git merge:
 - git bisect:
+
+## Why people use git
+
+- To maintain their code
+- To keep track of changes
+- To backup their code
+- To collaborate with other people
