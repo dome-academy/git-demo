@@ -10,3 +10,7 @@ Common git commands are:
 - git status:
 - git push:
 - git commit:
+- git log:
+- git stash:
+- git checkout:
+- git branch:
