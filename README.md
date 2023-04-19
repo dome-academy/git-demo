@@ -9,3 +9,4 @@ Common git commands are:
 - git init:
 - git status:
 - git push:
+- git commit:
